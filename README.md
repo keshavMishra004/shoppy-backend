@@ -1,4 +1,4 @@
-1. Used CJS (common js ) file structure for the project.
+1. Used CJS (common js ) module type for the project.
 2. Installed several packages like nodemon, dotenv,mongoose,bcrypt,etc.
 3. created database file inside config folder to connect with Mongodb and mongoose is used for wtiting schemas.
 4. authcontroller is created for user authentation - to register a new user and to login an already existing user.
